@@ -1,3 +1,3 @@
 adding some content ;)
-making new changes for Extension Activity:
-- Branching and Merging:
+making new changes for Extension Activity Branching and Merging
+
